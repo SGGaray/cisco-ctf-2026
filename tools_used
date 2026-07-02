@@ -15,4 +15,3 @@
 
 - La VM se importó en VirtualBox y, ante limitaciones de espacio en la partición principal, también se preparó como alternativa en VMware Workstation sobre la partición Windows.
 - No se usaron hints en ninguna de las 37 flags.
-- Próxima vez sumaría CyberChef al kit de herramientas para decodificación rápida de cadenas con múltiples capas de encoding.
