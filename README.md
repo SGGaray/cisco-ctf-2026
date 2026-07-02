@@ -43,4 +43,4 @@ Capturas del resultado final en `/evidence` (score report, game progress, score 
 
 Estudiante de Ciberdefensa (Licenciatura en Ciberdefensa) y Psicología Social, enfocado en GRC, AI Governance, Human Risk Management y Shadow AI.
 
-LinkedIn: https://www.linkedin.com/in/sebastian-garay/ · Portfolio: sggaray.github.io
+LinkedIn: https://www.linkedin.com/in/sebastian-garay/ · Portfolio: https://sggaray.github.io/
