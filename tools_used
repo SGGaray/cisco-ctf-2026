@@ -1,1 +1,18 @@
 
+# Tools Used
+
+| Herramienta | Misión | Uso |
+| --- | --- | --- |
+| Kali Linux VM (Ethical Hacker Kali 2026.2) | 2 | Entorno base para pentesting |
+| nmap | 2 | Escaneo de red y puertos sobre dos segmentos distintos |
+| DVWA | 2 | Práctica controlada de SQLi y CSRF |
+| Ettercap | 2 | Ataque de red, corrido en modo daemon |
+| smbclient | 2 | Acceso a recursos compartidos SMB |
+| OWASP WSTG | 1 | Referencia de versión de guía de testing |
+| MITRE ATT&CK | 1 | Mapeo de tácticas dentro de una campaña APT |
+| Lectura de reportes PDF (auditoría OpenVPN, forense de incidente) | 3 | Extracción de datos puntuales en documentos extensos |
+
+## Notas
+
+- La VM se importó en VirtualBox y, ante limitaciones de espacio en la partición principal, también se preparó como alternativa en VMware Workstation sobre la partición Windows.
+- No se usaron hints en ninguna de las 37 flags.
